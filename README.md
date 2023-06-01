@@ -1,4 +1,4 @@
-# Movies API 
+# React Movies API Tmdb
 ### Codes used
 #### HTML5, CSS, JS, React.js, react icons, axios , (movie-trailer => react-player)
 
